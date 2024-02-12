@@ -35,4 +35,4 @@ This React application is created using vite and features a simple shopping cart
 
 ## Live Demo
 
-Check out the live demo: [React Shopping Cart](https://react-price-card-manu.netlify.app/)
+Check out the live demo: [React Shopping Cart](https://react-shopping-cart-manu.netlify.app/)
