@@ -7,10 +7,10 @@ function Card({ cardData, updateCartNo }) {
   const [isItemAdded, setIsItemAdded] = useState(false);
   return (
     <div className="col mb-5">
-      <div className="card h-100">
+      <div className="card h-100 ">
         <img
           src={cardData.image}
-          className="card-img-top"
+          className="card-img-top "
           alt="product image"
         />
         {cardData.sale ? (
